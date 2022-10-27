@@ -3,8 +3,6 @@
 Description: Complete Commerce app using Python, Django, SQL
 
 Initial commit: Pushed initial files.
-Current version: Initial
-Final version: TODO
 
 Link to functionality display: TODO
 
